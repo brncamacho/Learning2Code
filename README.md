@@ -1,2 +1,7 @@
 # Learning2Code
- Códigos de aprendizagem cursos de programação
+
+Olá, mundo! 
+
+Repositório de códigos de aprendizagem 
+
+Cursos de programação
