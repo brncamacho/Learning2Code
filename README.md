@@ -1,6 +1,6 @@
 # Learning2Code
 
-Olá, mundo! 
+Olá, mundo! 😺
 
 Repositório de códigos de aprendizagem 
 
